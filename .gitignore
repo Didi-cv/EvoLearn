@@ -1,0 +1,13 @@
+﻿checkpoints/
+*.tar.gz
+*.pth
+*.pkl
+*.whl
+support/
+Test/
+*.pdf
+*.png
+*.svg
+*.exe
+*.log
+*.txt
