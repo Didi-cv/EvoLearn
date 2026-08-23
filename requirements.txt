@@ -1,0 +1,10 @@
+# EvoLearn 端侧增量学习引擎 · iCAN 2026
+# 基于 Python 3.6.9, Jetson Nano 4GB
+
+torch==1.10.0
+torchvision==0.11.3
+numpy>=1.19.5
+scipy>=1.5.4
+scikit-learn>=0.24.2
+matplotlib>=3.3.4
+seaborn>=0.11.2
